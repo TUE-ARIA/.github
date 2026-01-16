@@ -1,4 +1,4 @@
-# TUE-ARIA
+# Architectures for Reliable Image Analysis
 
 Welcome to the **Architectures for Reliable Image Analysis (ARIA)** lab at the **Technical University of Eindhoven (TU/e)**.
 
